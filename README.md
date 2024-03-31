@@ -83,7 +83,8 @@ This part of the report shows you how your TWIA will look like over the next 5 d
 
 ![TWIA Projection](https://github.com/huserben/Total-Work-Item-Age-Projection-Power-BI-Template/assets/5486874/3ccc97b4-5b36-4819-8e0b-08885351938a)
 
-Weekends (Saturday and Sunday) are visually indicated by gray bars, as normally there will be no work done, but TWIA will still increase.
+Weekends (Saturday and Sunday) are visually indicated by gray bars, as normally there will be no work done, but TWIA will still increase.  
+
 ![TWIA Projection Weekend](https://github.com/huserben/Total-Work-Item-Age-Projection-Power-BI-Template/assets/5486874/85e2067e-3b6f-449b-876c-4e352c787f42)
 
 
