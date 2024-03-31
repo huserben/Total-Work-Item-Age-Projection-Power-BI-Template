@@ -33,7 +33,8 @@ There are several elements:
 Let's dive deeper into them.
 
 ### Baseline Range
-The baseline range is used to define the values (average, Upper- and Lower Natural Process Limits) for the X-Charts as well as the Quadrant.
+The baseline range is used to define the values (average, Upper- and Lower Natural Process Limits) for the X-Charts as well as the Quadrant.  
+
 ![Baseline Range](https://github.com/huserben/Total-Work-Item-Age-Projection-Power-BI-Template/assets/5486874/65d413e7-b637-4e5c-a5b0-f953b5c1a94f)
 
 Please refer to one of the following links to learn more about Process Behavior Charts:
